@@ -36,3 +36,22 @@ This project helped me understand:
 - Play an alarm every hour
 - Add a background image
 - Display a digital clock
+
+---
+
+## 🇯🇵 日本語
+
+PythonとPySimpleGUIを使用して作成したアナログ時計アプリです。
+
+### 機能
+- 現在時刻をアナログ時計で表示
+- 秒針・分針・時針をリアルタイムで更新
+
+### 使用技術
+- Python
+- PySimpleGUI
+
+### 学習したこと
+- 関数の利用
+- Canvasを用いた描画
+- 現在時刻から針の角度を計算する方法
