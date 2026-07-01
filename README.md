@@ -4,7 +4,9 @@ A simple analog clock application built with Python and PySimpleGUI.
 
 ## Screenshot
 
-<img src="screenshot.png" width="600">
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
 
 
 ## Features
