@@ -1,6 +1,6 @@
 # Analog Clock
 
-A simple analog clock application built with Python and PySimpleGUI.
+A simple analog clock application built with **Python**, **PySimpleGUI**, and **Tkinter Canvas**.
 
 ## Screenshot
 
