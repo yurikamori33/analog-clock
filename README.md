@@ -5,7 +5,7 @@ Through this project, I learned the basics of GUI programming, how to draw on a 
 
 ## Screenshot
 <p align="center">
-  <img src="screenshot.png" width="300">
+  <img src="screenshot.png" width="400">
 </p>
 
 ## Features
